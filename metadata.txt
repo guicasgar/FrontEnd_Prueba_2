@@ -1,0 +1,9 @@
+[general]
+name=SerEIEL
+description=Complemento para el trabajo con datos de la EIEL.
+about=Complemento desarrollado por Seresco S.A. para facilitar el trabajo sobre una BBDD PostgreSQL / PostGIS con la información de la EIEL.
+version=0.3.8
+qgisMinimumVersion=3.0
+author=César Argul García
+email=cesar.argul@seresco.es
+repository=URL to the code repository

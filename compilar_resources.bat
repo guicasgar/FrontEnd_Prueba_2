@@ -1,0 +1,1 @@
+"C:\Program Files\QGIS 3.16.11\OSGeo4W.bat"  "C:\Program Files\QGIS 3.16.11\apps\Python39\Scripts\pyrcc5.exe" -o resources.py resources.qrc

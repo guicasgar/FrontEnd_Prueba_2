@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/SerEIEL" >
+        <file>resources/icon/gear-solid.svg</file>
+        <file>resources/icon/cloud-arrow-down-solid.svg</file>
+        <file>resources/icon/cloud-arrow-up-solid.svg</file>
+        <file>resources/icon/file-export-solid.svg</file>
+  </qresource>
+</RCC>
